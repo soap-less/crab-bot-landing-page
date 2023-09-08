@@ -5,13 +5,15 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "CrabBot",
-  description: "A Discord bot for weekly scheduling.",
+  description:
+    "A simple Discord bot for creating weekly availability schedules for your group.",
   robots: {
     index: false,
   },
   openGraph: {
     title: "CrabBot",
-    description: "A Discord bot for weekly scheduling.",
+    description:
+      "A simple bot for creating weekly availability schedules for your group.",
     url: "https://crab.soapful.gg",
     type: "website",
     images: [
