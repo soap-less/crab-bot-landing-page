@@ -30,7 +30,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <p>Open source. Made with {"<3"} by @soapful.</p>
+          <p style={{ textDecoration: "underline" }}>How does it work?</p>
+          <p>Made with {"<3"} by @soapful.</p>
         </a>
       </div>
 

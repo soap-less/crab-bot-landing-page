@@ -60,7 +60,7 @@
   width: 100vw;
   left: 0;
   bottom: 0.9rem;
-  text-decoration: underline;
+  text-align: center;
 }
 
 /* Enable hover only on non-touch devices */
