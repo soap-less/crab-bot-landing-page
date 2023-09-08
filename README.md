@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Pieces of CSS courtesy of the default create-next-app splash.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Pieces of CSS and JSX courtesy of the default create-next-app splash.
 
 Should it be a next.js project? Probably not. I just wanted to make this in 5 seconds and deploy to vercel👍
 
