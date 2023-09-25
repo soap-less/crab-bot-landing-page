@@ -13,7 +13,7 @@ export default function Home() {
           </p>
         </div>
         <a
-          href="https://discord.com/api/oauth2/authorize?client_id=1107959476109193256&permissions=380105018368&scope=bot"
+          href="https://discord.com/api/oauth2/authorize?client_id=1107959476109193256&permissions=397284764672&scope=bot"
           className={styles.link}
           target="_blank"
           rel="noopener noreferrer"
